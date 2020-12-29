@@ -1,0 +1,3 @@
+Welcome and thank you for taking the time to grade my MovieDex API assignment!
+
+I have created an Express application that allows a user to filter dozens of films by genre, country, or their average vote. This project also prioritizes security in relation to the API used and can be safely opened by anyone. When accessing the endpoint at /movie, all options displayed will match with the specified genre, country, or all the movies higher than the indicated vote rating. My array of films can be found in moviedata.js. Each of these three requests only get responses because of the secure authorization headers in this app.
